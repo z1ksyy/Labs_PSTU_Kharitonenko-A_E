@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "welcome to gitlab123" << std::endl;
+    std::cout << "welcome to gitflick" << std::endl;
     return 0;
 }
